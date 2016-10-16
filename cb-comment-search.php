@@ -84,7 +84,7 @@ class CB_Comment_Search {
 	}
 
 	/**
-	 * add ajaxurl variable to wp_head to be used in ajx
+	 * add ajaxurl variable to wp_head to be used in ajax
 	 */
 	public function ajaxurl() {
 		?>
